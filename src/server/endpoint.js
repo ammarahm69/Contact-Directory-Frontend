@@ -1,0 +1,1 @@
+export const SERVER_MAIN_URL = "http://localhost:8080"
